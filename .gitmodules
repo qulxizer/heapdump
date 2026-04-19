@@ -1,3 +1,3 @@
 [submodule "byteframe"]
-	path = byteframe
+	path = themes/byteframe
 	url = git@github.com:qulxizer/byteframe.git
