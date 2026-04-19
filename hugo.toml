@@ -1,0 +1,4 @@
+# baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'Mahdi Husain - Heap Dump'
+theme = 'byteframe'
