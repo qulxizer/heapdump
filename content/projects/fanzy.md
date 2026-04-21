@@ -23,6 +23,7 @@ the (Yellow / Cyan) cable was pulled high +12v so i assumed it is Signal cable, 
 2. GND (Brown)
 3. PWM? (Yellow / Cyan)
 4. Ignition? (Red/Yellow)
+
 i tried pulling the ignition high it seems the fan resort into fail safe mode or something after 10 seconds and ramp to full-speed.
 
 subsequently i tried pulling down the PWM cable which did absolutely nothing. for testing and experimenting i took the fan indoors and used [ATX PSU](https://en.wikipedia.org/wiki/Power_supply_unit_(computer)) with 20A fuse on the 12v rail which surprisingly deliver enough current without blowing the fuse even at the current rush moment.
