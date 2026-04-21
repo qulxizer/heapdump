@@ -1,8 +1,12 @@
 ---
-title: "STM32 UART Driver in C"
+title: STM32 UART Driver in C
 date: 2026-04-19
-tags: ["embedded", "c", "stm32", "uart"]
-description: "Bare-metal UART driver for STM32F4"
+tags:
+  - embedded
+  - c
+  - stm32
+  - uart
+description: Bare-metal UART driver for STM32F4
 ---
 
 ## Overview
