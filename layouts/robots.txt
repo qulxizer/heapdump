@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://heapdump.1jz.cc/sitemap.xml

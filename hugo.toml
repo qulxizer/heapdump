@@ -1,7 +1,23 @@
-# baseURL = 'https://heapdump.1jz.cc/'
+baseURL = 'https://heapdump.1jz.cc/'
 locale = 'en-us'
 title = 'Mahdi Husain - Heap Dump'
 theme = 'byteframe'
+
+enableRobotsTXT = true
+canonifyURLs = false
+
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
+
+[sitemap]
+  changefreq = 'weekly'
+  priority = 0.5
+  filename = 'sitemap.xml'
+
+[params]
+description = 'Mahdi Husain - Heap Dump, Embedded Systems, Reverse Engineering, Cars, Servers, and more.'
+author = 'Mahdi Husain'
+
 [markup]
   [markup.highlight]
     style = 'pygments'
