@@ -15,7 +15,7 @@ Please pay attention to Attempt No 3 because even if you were able to minimize t
 
 # Attempt No - 1
 My First attempt at silencing that monstrosity was trying to control the fans using remote management. I dug inside the IPMI. The only thing I found related to fan speed was FAN Mode 
-![[projects/Attachments/172_16_161_53.png]]
+![IPMI Page](projects/Attachments/172_16_161_53.png)
 Setting the FAN Mode to PUE2 drops the chassis fan speeds significantly, even though they randomly spin and make your ears bleed, and the thermal thresholds are garbage when the CPU hit 50C, the [BMC](https://www.supermicro.com/en/glossary/baseboard-management-controller) assumes that the world is gonna end.
 
 # Attempt No - 2
@@ -42,8 +42,8 @@ If this method works for you i recommend you use [smfc](https://github.com/peter
 # Attempt No - 3
 Using External controller, I'm currently working on releasing it on my GitHub page, and at the time of release, I will update this attempt because it is a very long journey 😅 here are some photos while replacing the [PSU](https://en.wikipedia.org/wiki/Power_supply_unit_(computer)) fans on the [PWS-2K22A-1R](https://store.supermicro.com/us_en/2200-1u-pws-2k22a-1r.html)
 
-![[projects/Attachments/20260621_005354.jpg]]
+![Fan Driver Circuit](projects/Attachments/20260621_005354.jpg)
 
-![[projects/Attachments/20260621_005331.jpg]]
+![Fans](projects/Attachments/20260621_005331.jpg)
 
-![[projects/Attachments/20260621_005325.jpg]]
+![PSU Fan connections](projects/Attachments/20260621_005325.jpg)
