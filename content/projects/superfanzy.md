@@ -41,7 +41,7 @@ If this method works for you i recommend you use [smfc](https://github.com/peter
 # Attempt No - 3
 Using External controller, I'm currently working on releasing it on my GitHub page, and at the time of release, I will update this attempt because it is a very long journey 😅 here are some photos while replacing the [PSU](https://en.wikipedia.org/wiki/Power_supply_unit_(computer)) fans on the [PWS-2K22A-1R](https://store.supermicro.com/us_en/2200-1u-pws-2k22a-1r.html)
 
-![Fan Driver Circuit](projects/Attachments/20260621_005354.jpg)
+![Fan Driver Circuit](/projects/Attachments/20260621_005354.jpg)
 
 ![Fans](/projects/Attachments/20260621_005331.jpg)
 
