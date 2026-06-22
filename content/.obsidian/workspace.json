@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "projects/superfanzy.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -196,15 +196,15 @@
   },
   "active": "29e71404d627050a",
   "lastOpenFiles": [
-    "2026-04-20.md",
-    "projects/superfanzy.md",
-    "projects/fanzy.md",
     "projects/uart-driver.md",
+    "projects/fanzy.md",
+    "projects/superfanzy.md",
+    "2026-04-20.md",
     "projects/Attachments/20260621_005354.jpg",
     "projects/Attachments/20260621_005331.jpg",
     "projects/Attachments/20260621_005325.jpg",
     "BMC.md",
-    "projects/Attachments/172.16.161.53_cgi_url_redirect.cgi_url_name=mainmenu-1.png",
+    "projects/Attachments/172_16_161_53.png",
     "projects/Attachments/20260622035211.png",
     "projects/Attachments/20260421020451.png",
     "notes.base",
