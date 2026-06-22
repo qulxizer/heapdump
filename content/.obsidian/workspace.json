@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c2dadd69428b78c1",
+        "id": "58868af4bc820bc6",
         "type": "tabs",
         "children": [
           {
-            "id": "c82fb777ffe55588",
+            "id": "29e71404d627050a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/fanzy.md",
+                "file": "projects/superfanzy.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "fanzy"
+              "title": "superfanzy"
             }
           }
         ]
@@ -194,10 +194,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c82fb777ffe55588",
+  "active": "29e71404d627050a",
   "lastOpenFiles": [
-    "projects/uart-driver.md",
     "projects/fanzy.md",
+    "projects/uart-driver.md",
+    "projects/superfanzy.md",
+    "projects/Attachments/20260621_005354.jpg",
+    "projects/Attachments/20260621_005331.jpg",
+    "projects/Attachments/20260621_005325.jpg",
+    "BMC.md",
+    "projects/Attachments/172.16.161.53_cgi_url_redirect.cgi_url_name=mainmenu-1.png",
+    "projects/Attachments/20260622035211.png",
+    "2026-04-20.md",
     "projects/Attachments/20260421020451.png",
     "notes.base",
     "TEST.md",

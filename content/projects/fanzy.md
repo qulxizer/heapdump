@@ -1,11 +1,11 @@
 ---
 title: Automotive Fan Controller
-date: 2026-04-20
+date: 2026-06-22
 tags:
   - embedded
   - c
-  - stm32
   - uart
+  - pico
 description: Embedded fan controller designed for Bosch radiator fan modules
 ---
 I have Bosch 1-137-328-163 ( Specifically Audi A8 ) Radiator fan and i was wondering if i could use it to swap the noisy clutch fan with it and i want to make it modular so i could swap into any car.
@@ -42,6 +42,7 @@ so i started designing the firmware on the STM32F1 for testing right after that 
 | TIM1       | Timing base                         |
 | GPIO       | Status LED + control signals        |
 | RCC        | External HSE clock configuration    |
+
 I didn't use External HSE in the PCB design because the PWM signal frequency is very low and it is very unlikely the drift from ISE will cause any significant impact.
 ### Pin Mapping
 | Pin  | Function    | Description              |
@@ -50,4 +51,5 @@ I didn't use External HSE in the PCB design because the PWM signal frequency is 
 | PA1  | ADC1_IN1    | NTC temperature input    |
 | PA0  | GPIO_Input  | AC signal                |
 | PC13 | GPIO_Output | Status LED               |
+
 Pin mapping was to make it as easy as possible to write as im using the [TSSOP-20](https://mds.analog.com/api/public/content/TSSOP_20_05-08-1650.pdf) package of the [STM32G030F6P6](https://www.st.com/en/microcontrollers-microprocessors/stm32g030f6.html) and for more details you can find the source code at my account [GitHub](https://github.com/qulxizer/fanzy)
