@@ -12,7 +12,6 @@ description: Silencing my Nutanix NX-8235 Server
 I own a Nutanix NX-8235 server, and it's very loud and very loud is an understatement, especially if it is in your bedroom 😅, so I tried different methods to silence it, and I will put them down below. They might help you, even though half of my attempts have not worked sadly, but they might for you.
 
 Please pay attention to Attempt No 3 because even if you were able to minimize the noise coming from the chassis fan, you have to silence the elephant in the room, the [PSU](https://en.wikipedia.org/wiki/Power_supply_unit_(computer)) fans. For my case, the [PWS-2K22A-1R](https://store.supermicro.com/us_en/2200-1u-pws-2k22a-1r.html)
-
 # Attempt No - 1
 My First attempt at silencing that monstrosity was trying to control the fans using remote management. I dug inside the IPMI. The only thing I found related to fan speed was FAN Mode 
 ![IPMI Page](projects/Attachments/172_16_161_53.png)

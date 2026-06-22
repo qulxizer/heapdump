@@ -1,5 +1,6 @@
 {
   "attachmentFolderPath": "./Attachments",
   "alwaysUpdateLinks": true,
-  "newLinkFormat": "absolute"
+  "newLinkFormat": "absolute",
+  "vimMode": true
 }
