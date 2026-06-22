@@ -2,6 +2,7 @@
 locale = 'en-us'
 title = 'Mahdi Husain - Heap Dump'
 theme = 'byteframe'
+enableRobotsTXT = true
 [markup]
   [markup.highlight]
     style = 'pygments'
