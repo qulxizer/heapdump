@@ -1,6 +1,6 @@
 ---
 title: Silencing my Nutanix NX-8235 Server
-date: 2026-04-20
+date: 2026-06-22
 tags:
   - embedded
   - c

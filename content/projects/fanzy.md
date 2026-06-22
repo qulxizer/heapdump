@@ -1,6 +1,6 @@
 ---
 title: Automotive Fan Controller
-date: 2026-06-22
+date: 2026-04-20
 tags:
   - embedded
   - c
