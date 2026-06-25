@@ -7,18 +7,17 @@ enableRobotsTXT = true
 canonifyURLs = false
 
 [outputs]
-  home = ['HTML', 'RSS', 'JSON']
+home = ['HTML', 'RSS', 'JSON']
 
 [sitemap]
-  changefreq = 'weekly'
-  priority = 0.5
-  filename = 'sitemap.xml'
+changefreq = 'weekly'
+priority = 0.5
+filename = 'sitemap.xml'
 
 [params]
-description = 'Mahdi Husain - Heap Dump, Embedded Systems, Reverse Engineering, Cars, Servers, and more.'
+description = 'Mahdi Husain is an Electrical and Electronic Engineering (EEE) student focused on hardware design, embedded systems, reverse engineering, automotive engineering, homelabs, servers, and open-source projects.'
 author = 'Mahdi Husain'
 
 [markup]
-  [markup.highlight]
-    style = 'pygments'
-
+[markup.highlight]
+style = 'pygments'
