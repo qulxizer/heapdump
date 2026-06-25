@@ -15,7 +15,7 @@ priority = 0.5
 filename = 'sitemap.xml'
 
 [params]
-description = 'Mahdi Husain is an Electrical and Electronic Engineering (EEE) student focused on hardware design, embedded systems, reverse engineering, automotive engineering, homelabs, servers, and open-source projects.'
+description = 'Mahdi Husain Electronics Engineering student focused on hardware design, embedded systems, reverse engineering, automotive, homelabs, servers.'
 author = 'Mahdi Husain'
 
 [markup]
