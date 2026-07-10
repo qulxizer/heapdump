@@ -1,5 +1,5 @@
 ---
-title: Automotive Fan Controller
+title: Brushless Fan Controller for most german cars
 date: 2026-04-20
 tags:
   - embedded

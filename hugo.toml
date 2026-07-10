@@ -12,7 +12,7 @@ home = ['HTML', 'RSS', 'JSON']
 [sitemap]
 changefreq = 'weekly'
 priority = 0.5
-filename = 'sitemap.xml'
+filename = 'sitemap_index.xml'
 
 [params]
 description = 'Mahdi Husain Electronics Engineering student focused on hardware design, embedded systems, reverse engineering, automotive, homelabs, servers.'
