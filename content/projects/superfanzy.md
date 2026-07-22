@@ -34,6 +34,7 @@ ipmitool raw 0x30 0x91 0x5A 0x3 0x10 0x7F
 | 4    | `0x03` | Set PWM duty operation                    |
 | 5    | `0x10` | Zone 0 (CPU/System)                       |
 | 6    | `0x7F` | PWM duty value (~50%)                     |
+
 Make sure you set your **Lower Threshold Terms**! Read the post made by [DaveInTexas](https://forums.servethehome.com/index.php?members/daveintexas.38567/) for more information about the topic.
 
 If this method works for you i recommend you use [smfc](https://github.com/petersulyok/smfc) instead of making your own script. It is a very well-maintained project and should work for most Supermicro X10-X13 motherboards other than mine, of course 🥲.
